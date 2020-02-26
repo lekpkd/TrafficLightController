@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffffff</color>
+    <color name="bgAfk">#ffb1aeaf</color>
+    <color name="bgAfkf">#ff8a8788</color>
+    <color name="gray">#ffe6e6e6</color>
+</resources>
